@@ -3,6 +3,9 @@
 <img src="https://flat.badgen.net/badge/RIOT/Undetected./green?icon=terminal">  
 <img src="https://flat.badgen.net/badge/RIOT/BANS: 0/red?icon=terminal">
 
+## IMPORTANT NOTE
+I've never been banned for 6 months, never trust people who spam on the forum.
+
 ## How can i use Formatter?
 
 First, you will need to do "pip install black" because the python definitions need to be defined in every way. It doesn't see some files, but that's okay. Then put it to "Gameplayscripts" and type "python format.py".
