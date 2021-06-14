@@ -244,17 +244,17 @@ void LeagueMemoryReader::MakeSnapshot(MemSnapshot& ms) {
 	Mem::Read(hProcess, chatInstance + Offsets::ChatIsOpen, &ms.isChatOpen, sizeof(bool));
 
 	// Danger, ban risk!
-	DWORD zoomInstance = Mem::ReadDWORD(hProcess, moduleBaseAddr + Offsets::ZoomClass);
+	/*DWORD zoomInstance = Mem::ReadDWORD(hProcess, moduleBaseAddr + Offsets::ZoomClass);
 	float zoomAmount;
 	Mem::Read(hProcess, zoomInstance + Offsets::ZoomClass, &zoomAmount, sizeof(float));
 	float val = 800.0;
-	Mem::Write(hProcess, zoomInstance + Offsets::MaxZoom, &val, sizeof(float));
+	Mem::Write(hProcess, zoomInstance + Offsets::MaxZoom, &val, sizeof(float));*/
 
 	if (ms.gameTime > 2) {
 		ms.updatedThisFrame.clear();
 		ReadRenderer(ms);
 		ReadMinimap(ms);
-	    ReadObjects(ms);
+	        ReadObjects(ms);
 		ClearMissingObjects(ms);
 		FindPlayerChampion(ms);
 		FindHoveredObject(ms);
