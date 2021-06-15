@@ -40,7 +40,7 @@ int main()
 {
 	printf(
 		"	Thanks for using my LView fork if you have a question you can ask on the unknowncheats \n"
-		"	Discord soon...\n"
+		"	Discord https://discord.com/invite/BjEJFwh\n"
 		"	############################################################ \n"
 		"	############################################################ \n"
 		"	############################################################ \n"
