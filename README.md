@@ -5,6 +5,7 @@
 
 ## IMPORTANT NOTE
 I've never been banned for 6 months, never trust people who spam on the forum.
+Supported regions: EUW-NA-RU-BR-TR (KOREA AND JAPAN NOT SAFE)
 
 ## How can i use Formatter? (NOT REQUIRED)
 
