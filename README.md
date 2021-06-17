@@ -1,7 +1,9 @@
 # 🔥 WinStealer
 
-## Discord
-https://discord.com/invite/BjEJFwh
+## Official Discord
+https://discord.gg/ZACA3PfS4S
+## My team Discord
+https://discord.gg/BjEJFwh
 
 <img src="https://flat.badgen.net/badge/RIOT/Undetected./green?icon=terminal">  
 <img src="https://flat.badgen.net/badge/RIOT/BANS: 0/red?icon=terminal">
