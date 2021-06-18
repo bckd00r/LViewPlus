@@ -20,3 +20,7 @@ First, you will need to do "pip install black" because the python definitions ne
 Made by bckd00r
 
 All credits go to the original [author](https://github.com/CNLouisLiu/LViewLoL)
+
+## NOTE
+
+Made purely for educational purposes
