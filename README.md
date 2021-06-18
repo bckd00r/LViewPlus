@@ -23,4 +23,7 @@ All credits go to the original [author](https://github.com/CNLouisLiu/LViewLoL)
 
 ## NOTE
 
+### Overlay
+Change windows display to 100% for drawings
+
 Made for educational purposes, do not use maliciously
