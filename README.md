@@ -23,4 +23,4 @@ All credits go to the original [author](https://github.com/CNLouisLiu/LViewLoL)
 
 ## NOTE
 
-Made purely for educational purposes
+Made for educational purposes, do not use maliciously
