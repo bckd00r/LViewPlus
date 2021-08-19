@@ -1,7 +1,7 @@
 # 🔥 WinStealer
 
-## Official Discord
-https://discord.gg/fB5RfAE4QU
+## Official Discord (I don't support from discord server)
+https://discord.gg/FJvt9sGTs2
 ## My team Discord
 https://discord.gg/BjEJFwh
 
